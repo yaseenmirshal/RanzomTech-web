@@ -74,9 +74,9 @@
 
 :root {
 	
-	/* #761FE3 in decimal RGB */
-	--main-color: rgb(118,31,227);
-	--main-color-rgb:118,31,227;
+/* Darker Purple with a Blue Mix and Slight Brightness */
+--main-color: rgb(85, 40, 180); /* Hex: #5528B4 */
+--main-color-rgb: 85, 40, 180;
 	
 	/* #141414 in decimal RGB */
 	--color-two: rgb(20,20,20);
